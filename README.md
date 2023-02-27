@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots
+
+### Workouts List
+![Homepage workouts](https://raw.githubusercontent.com/elvan/workout-tracker-app-frontend-react/main/screenshots/Screenshot%202023-02-27%20111823.png)
+
+### Form Validations
+![Homepage with validations](https://raw.githubusercontent.com/elvan/workout-tracker-app-frontend-react/main/screenshots/Screenshot%202023-02-27%20111902.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:

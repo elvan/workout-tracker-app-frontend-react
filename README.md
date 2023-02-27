@@ -1,15 +1,22 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Workout Tracker
 
 ## Screenshots
 
-### Workouts List
-![Homepage workouts](https://raw.githubusercontent.com/elvan/workout-tracker-app-frontend-react/main/screenshots/Screenshot%202023-02-27%20111823.png)
+### Homepage Workouts List
+![Homepage workouts](https://raw.githubusercontent.com/elvan/workout-tracker-app-frontend-react/main/screenshots/Screenshot%202023-02-28%20030816.png)
 
 ### Form Validations
-![Homepage with validations](https://raw.githubusercontent.com/elvan/workout-tracker-app-frontend-react/main/screenshots/Screenshot%202023-02-27%20111902.png)
+![Homepage with validations](https://raw.githubusercontent.com/elvan/workout-tracker-app-frontend-react/main/screenshots/Screenshot%202023-02-28%20030829.png)
 
+### Sign Up Page
+![Sign Up Page](https://raw.githubusercontent.com/elvan/workout-tracker-app-frontend-react/main/screenshots/Screenshot%202023-02-28%20030840.png)
+
+### Log In Page
+![Log In Page](https://raw.githubusercontent.com/elvan/workout-tracker-app-frontend-react/main/screenshots/Screenshot%202023-02-28%20030852.png)
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 

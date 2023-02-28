@@ -2,17 +2,19 @@
 
 ## Screenshots
 
-### Homepage Workouts List
 ![Homepage workouts](https://raw.githubusercontent.com/elvan/workout-tracker-app-frontend-react/main/screenshots/Screenshot%202023-02-28%20030816.png)
+*Homepage Workouts List*
 
-### Form Validations
+
 ![Homepage with validations](https://raw.githubusercontent.com/elvan/workout-tracker-app-frontend-react/main/screenshots/Screenshot%202023-02-28%20030829.png)
+*Form Validations*
 
-### Sign Up Page
 ![Sign Up Page](https://raw.githubusercontent.com/elvan/workout-tracker-app-frontend-react/main/screenshots/Screenshot%202023-02-28%20030840.png)
+*Sign Up Page*
 
-### Log In Page
+
 ![Log In Page](https://raw.githubusercontent.com/elvan/workout-tracker-app-frontend-react/main/screenshots/Screenshot%202023-02-28%20030852.png)
+*Log In Page*
 
 # Getting Started with Create React App
 
